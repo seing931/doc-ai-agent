@@ -1,0 +1,55 @@
+Initial Step
+---------------
+1)Access Node.js command prompts to run cd C:\doc-ai-agent
+2)npm create vite@latest frontend
+3)Select following: I)React II)TypeScript + React Compiler III)ESLint IV)Yes
+
+npm install
+---------------
+npm install        # first time only if without setup initial step
+npm install react-router
+npm install react-hook-form
+npm install react-resizable-panels@2.1.9
+npm install next-themes
+npm install lucide-react@latest
+npm install class-variance-authority
+npm install framer-motion
+npm install clsx
+npm install recharts
+npm install cmdk
+npm install -D node
+
+npm install tailwindcss @tailwindcss/vite
+npm install tailwind-merge
+npm install tw-animate-css
+
+npm install sonner
+npm install vaul
+npm install input-otp
+npm install lucide-react react-day-picker@latest
+npm install embla-carousel-react
+
+npm install @vly-ai/integrations
+npm install @zumer/snapdom
+npm install @radix-ui/react-accordion
+npm install @radix-ui/react-alert-dialog
+npm install @radix-ui/react-aspect-ratio
+npm install @radix-ui/react-avatar
+npm install @radix-ui/react-checkbox
+npm install @radix-ui/react-context-menu
+npm install @radix-ui/react-dropdown-menu
+npm install @radix-ui/react-label
+npm install @radix-ui/react-hover-card
+npm install @radix-ui/react-menubar
+npm install @radix-ui/react-navigation-menu
+npm install @radix-ui/react-popover
+npm install @radix-ui/react-progress
+npm install @radix-ui/react-radio-group
+npm install @radix-ui/react-scroll-area
+npm install @radix-ui/react-select
+npm install @radix-ui/react-separator
+npm install @radix-ui/react-slider
+npm install @radix-ui/react-switch
+npm install @radix-ui/react-tabs
+npm install @radix-ui/react-toggle-group
+npm install @radix-ui/react-tooltip
